@@ -1,17 +1,19 @@
 # Site settings
-title: A blog about lorem ipsum dolor sit amet
-description: A blog about lorem ipsum dolor sit amet
+title: Sherry's website
+description: Sherry's personal website
 # baseurl: "/particle" # the subpath of your site, e.g. /blog
 # url: "localhost:3000" # the base hostname & protocol for your site e.g. http://willianjusten.com.br
 
 # User settings
-username: Anon Developer
-user_description: Bicycle rights irony actually neutra typewriter lyft. Man bun taxidermy put a bird on it, umami yr ramps pop-up ugh bushwick chia lo-fi. Occupy bitters pour-over snackwave you probably haven't heard of them small batch. Cornhole mustache man bun letterpress echo park VHS.
-user_title: Software Developer
-email: anon@anon.com
-twitter_username: lorem_ipsum
-github_username:  lorem_ipsum
-gplus_username:  lorem_ipsum
+username: Hsin-Rung (Sherry) Chou
+user_description: Hi! My name is Sherry. My works lies at the intersection of Machine Learning, Computer Vision and AR/VR, especially in the application of facial recognition.
+                  I graduated with my B.S. in Computer Science from National Tsing-Hua University, and with my M.S. from New York University.
+                  I am recently entering the field of Fintech with the title of junior AI scientist.
+                  I am a huge fan of The Legend of Zelda.
+user_title: Machine Learning / Computer Vision / VR / AR
+email: mailto:sherry18030@gmail.com
+github_username:  Sherry40931
+linkedin_username: hsinrungsherrychou
 
 # Google-analytics
 google-analytics:

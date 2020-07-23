@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: post
 title:  "First post"
 date:   2018-07-19 16:08
 categories: Others
@@ -13,4 +13,4 @@ This blog is also a place to document my development experiences for future refe
 
 另一方面，也想要學習一些網頁開發的技能，也練練英文寫作。今天終於都把環境搭建好了，希望可以持之以恆。
 
-![img](/assets/DSC_2684.JPG)
+![img](/assets/post_img/DSC_2684.JPG){:class="img-blog"}

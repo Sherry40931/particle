@@ -7,11 +7,11 @@
     <img alt="mountains" src="{{ "/assets/img/mountains.jpg" | prepend: site.baseurl }}" />
   </div>
   <div class="contents">
-    <h3> {{ include.title }} </h3>
+    <h3> {{ page.title }} </h3>
     <ul>
-      <li> {{ include.skills }} </li>
+      <li> {{ page.skills }} </li>
     </ul>
-    <p>{{ include.content }}</p>
+    <p>{{ page.content }}</p>
     <a class="project-link" href="#">Check it out</a>
   </div>
 </div>

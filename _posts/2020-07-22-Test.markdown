@@ -1,9 +1,10 @@
 ---
 layout: default
-title:  "Project Title"
+title:  "VR Room (C#, Unity)"
 date:   2018-07-22 16:08
-skills: Python
 categories: projects
 projects: 0
+link: https://www.youtube.com/watch?v=Vh0kUHS7owo
+img: /assets/img/VR_room.png
 ---
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+This is a interactive VR application accomplished with [Angus](https://github.com/aalty) and [Gatto](https://github.com/cating341). We developed a VR application where users can play games, draw on a blackboard, and hold a meeting. Users can also customize their virtual avatar combining with 3D scanning app, and change facial expression with VR controller.

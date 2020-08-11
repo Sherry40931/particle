@@ -1,9 +1,11 @@
 ---
 layout: default
-title:  "Test3"
+title:  "AR Pokémon War (C#)"
 date:   2018-07-24 16:08
 skills: C++
 categories: projects
 projects: 2
+img: /assets/img/pokemon_war.png
+link: https://www.youtube.com/watch?v=_uBzhnW6aLU
 ---
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+This is an AR Pokémon fingting game by placing different barcode cards in front of a webcam, players can summond different Pokémon with different attack skills. Our github [repo](https://github.com/jean4599/AR-pokemon-war).

@@ -41,7 +41,7 @@
                 {% else %}
                   <div class="images-left">
                 {% endif %}
-                  <img alt="mountains" src="{{ "/assets/img/mountains.jpg" | prepend: site.baseurl }}" />
+                  <img alt="mountains" src="{{ post.img | '/assets/img/VR_room.png' }}" />
                 </div>
                 
                 {% if remainder == 0 %}
@@ -51,11 +51,11 @@
                 {% endif %}
 
                   <h3> {{ post.title }} </h3>
-                  <ul>
+<!--                   <ul>
                     <li> {{ post.skills }} </li>
-                  </ul>
+                  </ul> -->
                   <p>{{ post.content }}</p>
-                  <a class="project-link" href="#">Check it out</a>
+                  <a class="project-link" href="{{ post.link }}"> Demo Video </a>
                 </div>
               </div>
             {% endif %}

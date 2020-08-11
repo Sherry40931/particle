@@ -1,9 +1,10 @@
 ---
 layout: default
-title:  "Test2"
+title:  "Toolman (Java)"
 date:   2018-07-23 16:08
-skills: C#
 categories: projects
 projects: 1
+img: /assets/img/toolman.png
+link: https://www.youtube.com/watch?v=LycDUZ-nS3c
 ---
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+This is a multiplayer racing game which used PC as a monitor and Android smartphones as remote controllers, check out our github repo: [PC](https://github.com/aalty/Running-Man-PC), [Android](https://github.com/dorislee1112/Running-Man-Android).
